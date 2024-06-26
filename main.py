@@ -1,4 +1,4 @@
-import dash_markdown_editor as dme
+import dash_mdxeditor as dme
 from dash import Dash, callback, html, Input
 
 app = Dash(__name__)
